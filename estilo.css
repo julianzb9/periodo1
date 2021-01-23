@@ -1,0 +1,86 @@
+.btn{
+    text-decoration: none;
+    padding: 20px;
+    font-family: calibri;
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 600;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+  }
+  .btn:hover{
+    color: white;
+    background-color: gray;
+    text-decoration: none;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn2{
+    text-decoration: none;
+    padding: 20px;
+    font-family: calibri;
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 600;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+  }
+  .btn2:hover{
+    color: white;
+    background-color: gray;
+    text-decoration: none;
+  }
+
+
+
+
+
+
+
+.btn3{
+    text-decoration: none;
+    padding: 20px;
+    font-family: calibri;
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 600;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+  }
+  .btn3:hover{
+    color: white;
+    background-color: gray;
+    text-decoration: none;
+  }
+
+
+  .container
+  {
+
+margin-top: -65px;
+    padding-top: 90px;
+    background: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #64686d;
+    line-height: 26px;
+  }
